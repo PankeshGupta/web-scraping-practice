@@ -20,7 +20,7 @@ This repository contains a list of programs for web data scraping. The programs 
 
 ### Github Trending
 
-**Description**: Fetch github trending list, 
+**Description**: Fetch github trending list, https://github.com/trending
 
 **Programs**: [fetch_github_trending.py](./python/fetch_github_trending.py)
 
